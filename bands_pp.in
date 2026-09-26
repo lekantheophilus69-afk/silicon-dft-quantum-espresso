@@ -1,0 +1,5 @@
+&BANDS
+    prefix = 'silicon_eq',
+    outdir = './tmp_eq/',
+    filband = 'silicon_bands.dat'
+/
